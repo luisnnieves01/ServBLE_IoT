@@ -1,5 +1,5 @@
 /* src/main.c — Servidor PUF-BLE: pre-enrollment + Mensaje 1
- *
+ *  Luiso
  * Flujo según el protocolo:
  *   1. Inicializar BCH y tabla L_S en memoria
  *   2. Pre-enrollment de los dos dispositivos (si no están ya)
